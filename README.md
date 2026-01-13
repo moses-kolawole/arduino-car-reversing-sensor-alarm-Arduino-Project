@@ -1,7 +1,9 @@
 # Car Reversing Sensor Alarm – Arduino Project
 
 ## Overview
-This project simulates a car reversing sensor alarm using Arduino. A potentiometer represents the distance between a car and an obstacle. As the distance decreases, the buzzer sound frequency increases, and indicator LEDs blink alternately to warn the driver.
+This project is a car reversing sensor alarm using Arduino.
+I used a potentiometer to simulate the distance between a car and an obstacle.
+The buzzer beeps faster and LEDs blink alternately as the car gets closer to the object. It’s a simple way to warn the driver.
 
 ## Objective
 - Learn how to read analog sensor values using Arduino
